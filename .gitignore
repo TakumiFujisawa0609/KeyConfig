@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+3Dベースプロジェクト/.vs/
+3Dベースプロジェクト/x64/Debug/BaseProject.ilk
+3Dベースプロジェクト/x64/
+3Dベースプロジェクト/Log.txt
